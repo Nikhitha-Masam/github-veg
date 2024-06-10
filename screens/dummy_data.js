@@ -1,0 +1,73 @@
+export const items=[
+    {
+        id:'1',
+        name:'Tomatoes',
+        image:'https://cdn.pixabay.com/photo/2011/03/16/16/01/tomatoes-5356_640.jpg',
+        price:'Rs.50',
+        status:'Pending'
+    },
+    {
+        id:'2',
+        name:'Brinjal',
+        image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJbDCsbdREaFvCwY6vNYsxKXdubkq2cCLOQw&s',
+        price:'Rs.40',
+         status:'Refund'
+    },
+    {
+        id:'3',
+        name:'Potato',
+        image:'https://img.freepik.com/free-photo/basket-white-potatoes_1268-25051.jpg',
+        price:'Rs.30',
+         status:'Completed'
+    },
+    {
+        id:'4',
+        name:'Mangoes',
+        image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSumVkPdr5S7ijVQPtcijI8kGwq8QEk7MbZUQ&s',
+        price:'Rs.70',
+         status:'Cancelled'
+    },
+    {
+        id:'5',
+        name:'Banana',
+        image:'https://images.immediate.co.uk/production/volatile/sites/30/2017/01/Bunch-of-bananas-67e91d5.jpg?quality=90&resize=440,400',
+        price:'Rs.60',
+         status:'Pending'
+    },
+    {
+        id:'6',
+        name:'Grapes',
+        image:'https://smartyield.in/wp-content/uploads/2021/06/Green-grape.png',
+        price:'Rs.80',
+         status:'Order Placed'
+    },
+
+    {
+        id:'7',
+        name:'Ladies Finger',
+        image:'https://www.netmeds.com/images/cms/wysiwyg/blog/2022/03/1647423858_Okra_big_1.jpg',
+        price:'Rs.20',
+         status:'Completed'
+    },
+    {
+        id:'8',
+        name:'Beetroot',
+        image:'https://5.imimg.com/data5/SELLER/Default/2023/6/316774192/AM/QQ/MA/3042133/fresh-red-beetroot.jpg',
+        price:'Rs.90',
+         status:'Refund'
+    },
+    {
+        id:'9',
+        name:'Carrot',
+        image:'https://blog-images-1.pharmeasy.in/blog/production/wp-content/uploads/2021/04/23175719/shutterstock_440493100-1.jpg',
+        price:'Rs.60',
+         status:'Order Placed'
+    },
+    {
+        id:'10',
+        name:'Kiwi',
+        image:'https://cdn.britannica.com/45/126445-050-4C0FA9F6/Kiwi-fruit.jpg',
+        price:'Rs.150',
+         status:'Cancelled'
+    },
+]
